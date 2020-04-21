@@ -14,8 +14,8 @@
    * The two types of IP addresses are IPv4 which looks like 172.16.1.1 and IPv6 which looks like 2001:0db8:85a3:0000:0000:8a2e:0370:7334.
 2. An IP address is not permanently assigned to one device, meaning a your laptop might have an IP address of 192.168.110.57 one day, another day it could be 96.40.206.96.
 3. The possible ranges for IPv4 addresses is 1.0.0.1 to 254.255.255.254
-  * That means there are around 4.3 billion different IPv4 Ip addresses
-  * We are beginning to use up all of those addresses which is why IPv6 was created
+   * That means there are around 4.3 billion different IPv4 Ip addresses
+   * We are beginning to use up all of those addresses which is why IPv6 was created
   
 #### Viewing your IP address
 ##### Now that you have some basic information on what an IP address is, let's look at what yours is!
