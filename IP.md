@@ -5,7 +5,7 @@
 
 * What is an IP address
 * How to see what your IP address is on your Windows Machine
-* How to change your IP address
+* What an IP can tell you
  
 ![alt text](ip-address-1.jpeg "IP")
 #### What is an IP address?
@@ -37,7 +37,10 @@
 3. Once in terminal type in the command "curl ipecho.net/plain ; echo"
    ![alt text](ipecho.png "Echo")
 
-
-
+#### Why is this important?
+##### Now that you now how to find out what your ip address is, let me tell you what an IP address can tell you
+1. If you know your IP address or someone else's you can determine where in the world they are located, down to the city
+  * Scam artists use this information a lot to trick people into believing they are someone who they are not
+2. An IP address can ide
 
 
