@@ -41,6 +41,8 @@
 ##### Now that you now how to find out what your ip address is, let me tell you what an IP address can tell you
 1. If you know your IP address or someone else's you can determine where in the world they are located, down to the city
   * Scam artists use this information a lot to trick people into believing they are someone who they are not
-2. An IP address can ide
+2. Knowing how to find your ip address can help you in the event of troubleshooting 
+  * Can also help if you are on the phone with tech support
+3. As life continues to revolve more and more around computers basic literacy like this can only help!
 
 
