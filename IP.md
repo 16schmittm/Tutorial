@@ -31,10 +31,12 @@
   ![alt text](ip.png "ip")
 ###### To view your IP address on a MAC follow these basic steps
 1. Navigate to the launchpad application
+   ![alt text](Launchpad.png "Launch")
 2. Once in the launchpad, type in terminal
+   ![alt text](Terminal.png "Terminal")
 3. Once in terminal type in the command "ifconfig"
 
 
 
 
-![alt text](Screen Shot 2020-04-21 at 12.59.05 AM.png "Cmd")
+
