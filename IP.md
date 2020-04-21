@@ -21,7 +21,9 @@
 ##### Now that you have some basic information on what an IP address is, let's look at what yours is!
 ###### To view your IP address in Windows 10 follow these basic steps
 1. Hit the windows key on your Keyboard
+
   ![alt text](windows-key.jpg "key")
+  
 2. Type in "cmd"
   * This opens up your computer's terminal, which is basically another way you can navigate around your computer
   ![alt text](Screen Shot 2020-04-21.png "Cmd")
