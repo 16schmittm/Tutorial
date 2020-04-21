@@ -1,6 +1,6 @@
 #               Welcome to my tutorial!
 
-### My name is Mike Schmitt, and I am going to teach you some basic things about IP Addresses on Windows 10. Here are some things will go over.
+### My name is Mike Schmitt, and I am going to teach you some basic things about IP Addresses. Here are some things will go over.
 
 
 * What is an IP address
