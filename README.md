@@ -6,4 +6,4 @@
 
 #### The target audience for this demonstration is people who are new to Windows 10 or cumputers in general.
 
-[Click here to begin the tutorial!](IP.MD)
+[Click here to begin the tutorial!](IP.md)
