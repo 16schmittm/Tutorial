@@ -6,9 +6,8 @@
 * What is an IP address
 * How to see what your IP address is on your Windows Machine
 * How to change your IP address
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ 
+![alt text](ip-address-1.jpeg "Logo Title Text 1")
 
 #### What is an IP address?
 1. An IP address is a number assigned to a specific device that allows it to communicate with other devices across the world.
