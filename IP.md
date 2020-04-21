@@ -7,8 +7,7 @@
 * How to see what your IP address is on your Windows Machine
 * How to change your IP address
  
-![alt text](ip-address-1.jpeg "Logo Title Text 1")
-
+![alt text](ip-address-1.jpeg "IP")
 #### What is an IP address?
 1. An IP address is a number assigned to a specific device that allows it to communicate with other devices across the world.
    * Every device that connects to the internet has an IP address
@@ -24,9 +23,15 @@
 1. Hit the windows key on your Keyboard
 2. Type in "cmd"
   * This opens up your computer's terminal, which is basically another way you can navigate around your computer
+  ![alt text](Screen Shot 2020-04-21 at 12.59.05 AM.png "Cmd")
 3. Once in the Terminal type in the command "ipconfig"
 ###### To view your IP address on a MAC follow these basic steps
 1. Navigate to the launchpad application
 2. Once in the launchpad, type in terminal
 3. Once in terminal type in the command "ifconfig"
 
+
+
+
+![alt text](Screen Shot 2020-04-21 at 12.59.05 AM.png "Cmd")
+![alt text](Screen Shot 2020-04-21 at 12.59.05 AM.png "Cmd")
