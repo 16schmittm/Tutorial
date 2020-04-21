@@ -26,7 +26,7 @@
   
 2. Type in "cmd"
   * This opens up your computer's terminal, which is basically another way you can navigate around your computer
-  ![alt text](Screen Shot 2020-04-21.png "Cmd")
+  ![alt text](cmd.png "Cmd")
 3. Once in the Terminal type in the command "ipconfig"
 ###### To view your IP address on a MAC follow these basic steps
 1. Navigate to the launchpad application
