@@ -3,7 +3,7 @@
 ## Created by Mike Schmitt
 
  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/16schmittm/Tutorial/blob/master/IMG_7979.jpg "Mike Schmitt")
 
 ### The purpose of this tutorial is to show users how to view and change their IP address on Windows 10
 
