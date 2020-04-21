@@ -34,7 +34,8 @@
    ![alt text](Launchpad.png "Launch")
 2. Once in the launchpad, type in terminal
    ![alt text](Terminal.png "Terminal")
-3. Once in terminal type in the command "ifconfig"
+3. Once in terminal type in the command "curl ipecho.net/plain ; echo"
+   ![alt text](ipecho.png "Echo")
 
 
 
